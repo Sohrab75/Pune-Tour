@@ -71,8 +71,6 @@
     70%{left: 1250px;color: red;} 
     75%{left: 1300px; color: royalblue;}
     /* 80%{left: 1450px;color: red;}  */
-   
-
 }
 
 .middlecontainer1{
@@ -221,6 +219,13 @@
     font-size: 25px;
 }
 
+.footer{
+    width:100%;
+    background-color:grey;
+    font-size:20px;
+    color: green;
+    text-align:center;
+}
 
 @media (min-width: 250px) and (max-width:450px){
     body{
