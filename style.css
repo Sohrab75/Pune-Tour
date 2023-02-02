@@ -89,11 +89,14 @@
 }
 .middlecontainer1 h1{
     position: absolute;
+    text-shadow:2px 4px 5px blue;
     font-size: 50px;
     display: block;
     top: 0px;
     left: 33%;
     color: black;
+    transition-property: width,height;
+    transition:5s;
     
 }
 .middlecontainer1 h4{
